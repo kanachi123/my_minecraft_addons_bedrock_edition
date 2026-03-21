@@ -135,5 +135,13 @@
         }
       ]
     }
-  }
+  },
+  "minecraft:render_controller": "controller.render.potato",
+  "minecraft:loot": {
+    "table": "loot_tables/potato.json"
+  },
+
+  
+  "_comment": "этот мод сгенерирован наполовину через ии как тестовая,но логика простая,потом напишу самостоятельнно все и разберу в *.md "
+  
 }

@@ -26,7 +26,7 @@
           { "death": "query.is_dead" }
         ]
       },
-      "render_controllers": ["controller.render.default"]
+      "render_controllers": ["controller.render.potato"]
     }
   }
 }

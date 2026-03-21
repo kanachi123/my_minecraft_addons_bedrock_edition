@@ -2,15 +2,13 @@
   "format_version": "1.8.0",
   "render_controllers": {
     "controller.render.default": {
-      "geometry": "Geometry.default",
+      "geometry": "geometry.potato",
       "materials": [
         {
           "*": "Material.default"
         }
       ],
-      "textures": [
-        "Texture.default"
-      ]
+      "textures": {"default": "textures/entity/potato"}
     }
   }
 }
