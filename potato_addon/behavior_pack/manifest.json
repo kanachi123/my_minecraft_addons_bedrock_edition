@@ -5,7 +5,7 @@
     "description": "Potato mob behavior",
     "uuid": "a1f4c8d9-3b27-4e6a-8d15-7c2e9b0f4a63",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 20, 10]
+    "min_engine_version": [1, 16, 0]
   },
   "modules": [
     {

@@ -5,7 +5,7 @@
     "description": "Potato mob visuals",
     "uuid": "c3a5d7d2-6e54-4f3f-9b7a-2e6c5b4a9f01",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 20, 10]
+    "min_engine_version": [1, 16, 0]
   },
   "modules": [
     {
