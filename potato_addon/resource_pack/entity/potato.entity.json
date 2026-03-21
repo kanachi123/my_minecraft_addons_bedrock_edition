@@ -1,0 +1,32 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "potato:potato",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/potato"
+      },
+      "geometry": {
+        "default": "geometry.potato"
+      },
+      "animations": {
+        "idle": "animation.potato.idle",
+        "walk": "animation.potato.walk",
+        "attack": "animation.potato.attack",
+        "death": "animation.potato.death"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          { "walk": "query.modified_move_speed > 0.1" },
+          { "attack": "query.is_attacking" },
+          { "death": "query.is_dead" }
+        ]
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}
