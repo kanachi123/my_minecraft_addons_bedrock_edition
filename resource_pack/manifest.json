@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Potato Resource Pack",
+    "description": "Potato mob visuals",
+    "uuid": "c3a5d7d2-6e54-4f3f-9b7a-2e6c5b4a9f01",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 10]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8f1b2c3d-4e5f-4a6b-9c7d-0e1f2a3b4c5d",
+      "version": [1, 0, 0]
+    }
+  ]
+}
