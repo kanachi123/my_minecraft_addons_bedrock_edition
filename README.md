@@ -1,4 +1,4 @@
-**Здесь будут мои моды майнкрафт,пишу на json+bedrock api,для графики blockbench,либо blender**
+**Здесь будут мои моды майнкрафт,пишу на json+bedrock api,для графики blockbench**
 ```
 здесь не будет Forge,я не знаю java
 ```
