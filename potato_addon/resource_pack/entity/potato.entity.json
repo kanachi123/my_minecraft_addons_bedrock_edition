@@ -7,7 +7,7 @@
         "default": "entity_alphatest"
       },
       "textures": {
-        "default": "textures/texture.png"
+        "default": "textures/texture"
       },
       "geometry": {
         "default": "geometry.potato"
